@@ -1,0 +1,15 @@
+# Loại bỏ thư mục build của Maven
+target/
+
+# Loại bỏ file rác của NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.netbeans_automatic_build
+
+# Loại bỏ các file log và file tạm
+*.log
+*.class
+
